@@ -1,0 +1,25 @@
+.jumbotron h1, .page-header h1{
+	font-family: 'Yellowtail', serif;
+}
+
+.footer {
+	margin-top: 20px;
+	padding: 2rem;
+	background-color: #EFEFEF;
+}
+
+.border-right{
+	border-right: 2px solid #EFEFEF;
+}
+
+.border-left{
+	border-left: 2px solid #EFEFEF;
+}
+
+.centro {
+	text-align: center;
+}
+
+.invisible{
+	display:none;
+}
